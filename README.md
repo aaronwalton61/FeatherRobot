@@ -1,9 +1,12 @@
 # FeatherRobot
-Robot based on the AdaFruit Feather ESP8266 and a motor control board
+Robot based on the AdaFruit ESP8266 Feather Huzzah and a FeatherWing motor control board
 
 based on: https://github.com/openhardwarerobots/esp8266-robot
 
-Libraries Needed:
+**Libraries Needed:**
++[aRest](https://github.com/marcoschwartz/aREST)
++[Adafruit_MotorShield V2](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)
 
-aRest
-Adafruit_MotorShield
+Arduino Sketch, 1.8.1
+Also, Board for _AdaFruit Huzzah ESP8266_
+
