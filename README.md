@@ -5,9 +5,8 @@ based on: https://github.com/openhardwarerobots/esp8266-robot
 
 **Libraries Needed:**
 
-+[aRest](https://github.com/marcoschwartz/aREST)
-
-+[Adafruit_MotorShield V2](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)
++ [aRest](https://github.com/marcoschwartz/aREST)
++ [Adafruit_MotorShield V2](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)
 
 Arduino Sketch, 1.8.1
 
