@@ -16,3 +16,10 @@ Also, Board for _AdaFruit Huzzah ESP8266_
 
     Under <File>-<Preferences> and then goto Managing Boards
 
+Sketches:
+
++ Blink - simple blink LED test for esp8266 Huzzah
++ WiFi - Log into WiFi
++ WiFiList - sketch that prints (displays) list of WiFi
++ esp8266-robot - basic REST interface driven robot uses interface to control robot
++ interface - html based interface to REST driven robot, needs the ip and needs to be on the same network as REST robot
