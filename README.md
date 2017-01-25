@@ -13,7 +13,7 @@ Also, Board for _AdaFruit Huzzah ESP8266_
     Under <File>-<Preferences> and then goto Managing Boards
 
 **Libraries Needed:**
-
+------
 + [aRest](https://github.com/marcoschwartz/aREST)
 + [Adafruit_MotorShield V2](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)
 + [Adafruit SSD1306 Library](https://github.com/adafruit/Adafruit_SSD1306)
@@ -24,11 +24,12 @@ Also, Board for _AdaFruit Huzzah ESP8266_
 
 Sketches:
 ------
-+ Blink - simple blink LED test for esp8266 Huzzah
-+ WiFi - Log into WiFi
-+ WiFiList - sketch that prints (displays) list of WiFi
-+ esp8266-robot - basic REST interface driven robot uses interface to control robot
-+ interface - html based interface to REST driven robot, needs the ip and needs to be on the same network as REST robot
+* Blink - simple blink LED test for esp8266 Huzzah
+* WiFi - Log into WiFi
+* WiFiList - sketch that prints (displays) list of WiFi
+* FeatherOLED128x32 - Test sketch for featheroled 128x32
+* esp8266-robot - basic REST interface driven robot uses interface to control robot
+* interface - html based interface to REST driven robot, needs the ip and needs to be on the same network as REST robot
 
 # Hardware:
 
@@ -38,50 +39,3 @@ Sketches:
 + [lipo battery](https://www.adafruit.com/products/1781) [Learn]()
 + [featherwing oled 128x32](https://www.adafruit.com/products/2900) [Learn](https://learn.adafruit.com/adafruit-oled-featherwing)
 + [sensors](https://www.adafruit.com/products/1927) [Learn]()
-
-# Test section:
-## Table:
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Blockquotes
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-## inline HTML
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-## Horizontals
----
-Hyphens
-
-***
-Asterisks
-
-___
-Underscores
-
-## inline code
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
