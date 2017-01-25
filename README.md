@@ -1,4 +1,5 @@
-====== FeatherRobot
+FeatherRobot
+======
 Robot based on the AdaFruit ESP8266 Feather Huzzah and a FeatherWing motor control board
 
 based on: https://github.com/openhardwarerobots/esp8266-robot
@@ -22,7 +23,7 @@ Also, Board for _AdaFruit Huzzah ESP8266_
   Install all of these libraries into the Arduino Libraries directory.
 
 Sketches:
-
+------
 + Blink - simple blink LED test for esp8266 Huzzah
 + WiFi - Log into WiFi
 + WiFiList - sketch that prints (displays) list of WiFi
@@ -38,7 +39,7 @@ Sketches:
 + [featherwing oled 128x32](https://www.adafruit.com/products/2900) [Learn](https://learn.adafruit.com/adafruit-oled-featherwing)
 + [sensors](https://www.adafruit.com/products/1927) [Learn]()
 
------- Test section:
+# Test section:
 ## Table:
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
