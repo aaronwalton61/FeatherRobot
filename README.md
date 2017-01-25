@@ -1,4 +1,4 @@
-= FeatherRobot
+====== FeatherRobot
 Robot based on the AdaFruit ESP8266 Feather Huzzah and a FeatherWing motor control board
 
 based on: https://github.com/openhardwarerobots/esp8266-robot
@@ -38,7 +38,7 @@ Sketches:
 + [featherwing oled 128x32](https://www.adafruit.com/products/2900) [Learn](https://learn.adafruit.com/adafruit-oled-featherwing)
 + [sensors](https://www.adafruit.com/products/1927) [Learn]()
 
-_ Test section:
+------ Test section:
 ## Table:
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
