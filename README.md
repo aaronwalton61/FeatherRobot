@@ -37,3 +37,25 @@ Sketches:
 + [lipo battery](https://www.adafruit.com/products/1781) [Learn]()
 + [featherwing oled 128x32](https://www.adafruit.com/products/2900) [Learn](https://learn.adafruit.com/adafruit-oled-featherwing)
 + [sensors](https://www.adafruit.com/products/1927) [Learn]()
+
+## Test section:
+# Table:
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+# Blockquotes
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+# Horizontals
+---
+Hyphens
+
+***
+Asterisks
+
+___
+Underscores
