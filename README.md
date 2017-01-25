@@ -1,4 +1,4 @@
-# FeatherRobot
+= FeatherRobot
 Robot based on the AdaFruit ESP8266 Feather Huzzah and a FeatherWing motor control board
 
 based on: https://github.com/openhardwarerobots/esp8266-robot
@@ -38,19 +38,28 @@ Sketches:
 + [featherwing oled 128x32](https://www.adafruit.com/products/2900) [Learn](https://learn.adafruit.com/adafruit-oled-featherwing)
 + [sensors](https://www.adafruit.com/products/1927) [Learn]()
 
-## Test section:
-# Table:
+_ Test section:
+## Table:
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-# Blockquotes
+## Blockquotes
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
-# Horizontals
+## inline HTML
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+## Horizontals
 ---
 Hyphens
 
@@ -60,7 +69,7 @@ Asterisks
 ___
 Underscores
 
-# inline code
+## inline code
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
