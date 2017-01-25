@@ -18,7 +18,7 @@ Also, Board for _AdaFruit Huzzah ESP8266_
 + [Adafruit_MotorShield V2](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)
 + [Adafruit SSD1306 Library](https://github.com/adafruit/Adafruit_SSD1306)
 + [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
-+ [Adafruit FeatherOLED](https://github.com/adafruit/Adafruit_FeatherOLED) - optional beta Feather_OLED library
++ [Adafruit FeatherOLED](https://github.com/adafruit/Adafruit_FeatherOLED) - optional beta
 
   Install all of these libraries into the Arduino Libraries directory.
 
