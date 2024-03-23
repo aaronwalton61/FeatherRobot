@@ -3,6 +3,7 @@ FeatherRobot
 Robot based on the AdaFruit ESP8266 Feather Huzzah, a FeatherWing motor control board and a FeatherWing oled 128x32 display.
 
 based on: https://github.com/openhardwarerobots/esp8266-robot
+[Adafruit Learn esp8266](https://learn.adafruit.com/build-an-esp8266-mobile-robot)
 
 [Arduino IDE](https://www.arduino.cc/en/Main/Software), used 1.8.1
 
