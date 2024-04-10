@@ -41,6 +41,7 @@ Sketches:
 + [lipo battery](https://www.adafruit.com/products/1781) [Learn]()
 + [featherwing oled 128x32](https://www.adafruit.com/products/2900) [Learn](https://learn.adafruit.com/adafruit-oled-featherwing)
 + [sensors](https://www.adafruit.com/products/1927) [Learn]()
++ [Feather esp8266 Robot](https://learn.adafruit.com/build-an-esp8266-mobile-robot/building-the-robot)
 + [robot adafruit](https://learn.adafruit.com/curiebot-arduino-101-mini-robot-rover)
 + [feather robot, adafruit](https://learn.adafruit.com/my-mini-race-car/how-your-robot-works-the-basics)
 + [robot, adabox002](https://learn.adafruit.com/adabox002/unboxing-adabox-002)
